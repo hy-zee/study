@@ -1,5 +1,5 @@
 N = int(input())
-
+print("수정")
 arr = []
 for _ in range(N):
     name, *scores = input().split()
